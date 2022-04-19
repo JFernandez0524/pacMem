@@ -13,7 +13,7 @@ Download the files into a directory of your liking and click on the index.html f
 ### Future Improvements
 
 To improve this game I will add code to change colors and change size of the PacMen when they hit the walls of the browser window.
-<a href="https://jfernandez0524.github.io/pacMen/" target="_blank">
+<br><a href="https://jfernandez0524.github.io/pacMen/" target="_blank">
 View Repo Here</a>
 
 ### Other Repos
