@@ -1,3 +1,21 @@
+# PacMen Factory
+
+<img src="./images/pacMen.png" width="300">
+
+## Description
+
+This project creates PacMen with the click of a button and then moves them bounces them around in the browser window.
+
+## Installation
+
+Download the files into a directory of your liking and click on the index.html file or open the file from the browser of your choice. Click on the Add PacMen button to create PacMen at will and then click start game to bounce the PacMen.
+
+### Future Improvements
+
+To improve this game I will add code to change colors and change size of the PacMen when they hit the walls of the browser window.
+
+## License
+
 MIT License
 
 Copyright (c) 2022 JFernandez0524
